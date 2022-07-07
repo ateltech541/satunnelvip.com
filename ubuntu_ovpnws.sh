@@ -1,10 +1,10 @@
 #!/bin/bash
 cp /usr/share/zoneinfo/Asia/Riyadh /etc/localtime
 #Database Details
-HOST='174.138.184.18';
-USER='ponyvipn_panel';
+HOST='66.45.248.110';
+USER='satunnel_satunnel';
 PASS='@@Atel123@@';
-DBNAME='ponyvipn_panel';
+DBNAME='satunnel_satunnel';
 
 install_require()
 {
